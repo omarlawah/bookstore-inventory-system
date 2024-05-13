@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bookstore-inventory-system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookstore_inventory_system_jar</output-path>
+    <root id="archive" name="bookstore-inventory-system.jar">
+      <element id="module-output" name="bookstore-inventory-system" />
+    </root>
+  </artifact>
+</component>
